@@ -1,4 +1,6 @@
-# Play a Wave file
+# Draw using a Canvas
 
-First, load 
+ksjks
+
+
 
