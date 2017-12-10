@@ -20,7 +20,7 @@ You should see the "PharoSound" package. Install the stable version by doing eit
 Test it with this code:
 
 ```smalltalk
-SoundPlayer playSound: (SampledSound soundNamed: 'clink').
+SampledSound beep.
 ```
 
 You should hear the sound of "the sound of a spoon being tapped against a coffee cup" \(with an echo\).
