@@ -1,4 +1,4 @@
-# Play a Wave file
+# Load and play sound \(from a Wave file\)
 
 First, load a Wave file like this:
 
