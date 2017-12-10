@@ -4,31 +4,30 @@
 
 ### Games
 
-- [Snake Game](/tutorials/games/snake-game.md)
+* [Snake Game](/tutorials/games/snake-game.md)
 
 ## How-To Guides
 
 ### General
 
-- [Execute a deferred action](/how-to-guides/general/execute-deferred-action.md)
+* [Execute a deferred action](/how-to-guides/general/execute-deferred-action.md)
 
 ### Multi-Media
 
-- [Enable sound support in Pharo](/how-to-guides/multi-media/enable-sound-pharo.md)
-- Load and play sounds
-- Read images from files
-- Keep assets as code
+* [Enable sound support in Pharo](/how-to-guides/multi-media/enable-sound-pharo.md)
+* [Load and play sounds \(from Wave files](/how-to-guides/multi-media/play-wave-file.md)\)
+* Read images from files
+* Keep assets as code
 
 ### Morphic
 
-- Do custom drawing
-- Animate
-- Handle keystrokes
-- Handle mouse-events
-- Build an UI (user-interface)
-- Extract parts of images
-- Display an image
-
+* Do custom drawing
+* Animate
+* Handle keystrokes
+* Handle mouse-events
+* Build an UI \(user-interface\)
+* Extract parts of images
+* Display an image
 
 
 
