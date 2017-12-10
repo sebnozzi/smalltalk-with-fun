@@ -23,5 +23,5 @@ Test it with this code:
 SampledSound beep.
 ```
 
-You should hear the sound of "the sound of a spoon being tapped against a coffee cup" \(with an echo\).
+You should hear "the sound of a spoon being tapped against a coffee cup" \(with an echo\).
 
