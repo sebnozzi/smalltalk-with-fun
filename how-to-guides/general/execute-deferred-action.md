@@ -8,7 +8,7 @@ Paste this code into the Playground window:
 
 ```smalltalk
 [ (Delay forSeconds: 2) wait.
-Transcript show: 'Appears after two seconds'; cr 
+  Transcript show: 'Appears after two seconds'; cr 
 ] fork.
 ```
 
