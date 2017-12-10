@@ -8,6 +8,10 @@
 
 ## How-To Guides
 
+### General
+
+- [Execute a deferred action](/how-to-guides/general/execute-deferred-action.md)
+
 ### Multi-Media
 
 - [Enable sound support in Pharo](/how-to-guides/multi-media/enable-sound-pharo.md)

@@ -8,10 +8,12 @@ Open the "Catalog Browser" by clicking on an empty area of the Pharo desktop, an
 
 Once in the "Catalog Browser", filter the packages by writing "sound" or "pharosound".
 
-![](/assets/catalog-pharosound.png)
+![](/assets/filter-pharosound.png)
 
 You should see the "PharoSound" package. Install the stable version by doing either of these:
 
-* Click on the green checkmark in the "Catalog Browser" toolbar, or
-* Right-Click on the "PharoSound" package and select "Install stable version".
+* Click on the green checkmark in the "Catalog Browser" toolbar
+* Alternatively, right-Click on the "PharoSound" package and select "Install stable version".
+
+![](/assets/install-pharosound.png)
 
