@@ -1,6 +1,6 @@
-# My Awesome Book
+# Smalltalk with fun
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Learning Smalltalk through cool projects and tutorials.
 
 
 
