@@ -15,7 +15,7 @@
 ### Multi-Media
 
 * [Enable sound support in Pharo](/how-to-guides/multi-media/enable-sound-pharo.md)
-* [Load and play sounds \(from Wave files](/how-to-guides/multi-media/play-wave-file.md)\)
+* [Load and play sound \(from a Wave file](/how-to-guides/multi-media/play-wave-file.md)\)
 * Read images from files
 * Keep assets as code
 
