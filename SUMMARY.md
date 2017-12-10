@@ -10,7 +10,7 @@
 
 ### Multi-Media
 
-- Enable sound support in Pharo
+- [Enable sound support in Pharo](/how-to-guides/multi-media/enable-sound-pharo.md)
 - Load and play sounds
 - Read images from files
 - Keep assets as code
