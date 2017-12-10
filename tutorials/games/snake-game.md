@@ -1,10 +1,13 @@
 # Snake Game
 
-Required How-to guides:
+Required knowledge:
 
-- Custom-drawing a Morph
-- Animating a Morph
-- Handling keystrokes
-- Building a user-interface
+* Custom-drawing a Morph
+* Animating a Morph
+* Handling keystrokes
+* Building a user-interface
 
 ## Steps
+
+
+
