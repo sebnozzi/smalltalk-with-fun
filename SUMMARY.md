@@ -21,8 +21,8 @@
 
 ### Morphic
 
-* Do custom drawing
-* Animate
+* [Do custom drawing](/how-to-guides/morphic/draw-using-canvas.md)
+* [Animate](/how-to-guides/morphic/animate.md)
 * Handle keystrokes
 * Handle mouse-events
 * Build an UI \(user-interface\)
