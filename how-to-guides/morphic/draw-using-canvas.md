@@ -46,7 +46,6 @@ After that, it should look like this:
 
 ![](/assets/morph-custom-drawn-red-oval.png)
 
-Notice that within the `drawOn:` you can draw _anywhere_ you want in the screen using the "canvas" instance. The coordinates you pass to the canvas are **absolute**.
+Notice that within the `drawOn:` the coordinates you pass to the canvas are **absolute**. Nevertheless, anything drawn outside of the Morph's "bounds" (boundaries) will be cropped.
 
-You can query the current "bounds" of your custom-morph and within the screen and, theoretically, you _should_ constrain your drawing to that bounds' rectangle. But nothing forces you.
-
+You can query the current "bounds" of your custom-morph with the `bounds` method.

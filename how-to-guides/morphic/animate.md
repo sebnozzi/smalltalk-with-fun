@@ -1,5 +1,8 @@
 # Animate a Morph
 
+Useful to know:
+- [Draw using a Canvas](//how-to-guides/morphic/draw-using-canvas.md)
+
 We will animate a Morph by making use of the stepping mechanism. The stepping mechanism is not specific to animations, but it suits the purpose pretty well.
 
 Start by subclassing the Morph class:
